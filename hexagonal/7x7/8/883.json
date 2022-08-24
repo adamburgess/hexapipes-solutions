@@ -2,7 +2,7 @@
   "grid": "hexagonal",
   "width": 7,
   "height": 7,
-  "wrapping": false,
+  "wrap": false,
   "tiles": [32, 49,  9,  9, 40, 32, 48, 
             22,  4, 16, 48,  5, 14, 20, 
             34, 17, 10, 18,  5,  8, 34, 
