@@ -3,6 +3,7 @@
   "width": 9,
   "height": 9,
   "wrap": false,
+  "comment": "Bird foot tiles are very prone to producing multiple solutions. There\u0027s always some other way they could turn. The solution here is still unique though.",
   "tiles": [ 0,  0, 16, 16, 16,  1, 24,  0,  0, 
              0,  3, 43, 43,  8,  3, 24,  0,  0, 
              0,  1, 24,  4, 53,  9, 26, 16,  0, 

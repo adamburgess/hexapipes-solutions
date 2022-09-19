@@ -3,6 +3,7 @@
   "width": 11,
   "height": 11,
   "wrap": false,
+  "comment": "Three roads go out from the center.",
   "tiles": [ 0,  0,  0,  1, 24, 17, 24, 17, 24,  0,  0, 
              0,  0, 17, 10, 34, 34, 34, 34, 48,  0,  0, 
              0,  0,  3, 40, 33, 12,  5, 12,  6, 20,  0, 

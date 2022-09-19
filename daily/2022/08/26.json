@@ -3,6 +3,7 @@
   "width": 9,
   "height": 9,
   "wrap": false,
+  "comment": "The best tile only has two possible orientations. When two best tiles are adjacent they will always be connected!",
   "tiles": [ 0,  0, 48, 17,  8, 17, 24,  0,  0, 
              0, 34,  6, 33, 10,  3, 40,  0,  0, 
              0, 48, 21, 40, 21, 40, 16,  4,  0, 

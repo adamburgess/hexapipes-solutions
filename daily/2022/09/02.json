@@ -3,6 +3,7 @@
   "width": 9,
   "height": 9,
   "wrap": true,
+  "comment": "It\u0027s a wrap puzzle! Might be tricky. At least there are some borders around the hole.",
   "tiles": [24,  6, 32, 36, 38,  6,  3, 10,  5, 
             17, 25, 13, 60, 20, 48, 17,  8, 18, 
             18,  2,  1, 26,  7, 10, 22,  1, 10, 
