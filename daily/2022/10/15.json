@@ -1,0 +1,16 @@
+{
+  "grid": "hexagonal",
+  "width": 9,
+  "height": 9,
+  "wrap": true,
+  "comment": "I\u0027m looking for more ways to introduce initial clues into wrap puzzles. Let\u0027s call this one \u0022the border office\u0022.",
+  "tiles": [ 1,  9,  9,  9, 63,  9,  9,  9,  8, 
+             8, 16,  1, 26, 21, 40, 49,  8, 33, 
+            20,  3,  5, 11, 10, 32, 38,  4, 32, 
+             2,  1,  6,  5,  4, 52,  5,  8, 22, 
+            40,  5, 13, 10, 17, 10,  5, 41, 11, 
+            52,  1, 34, 34, 33,  8, 16, 21, 24, 
+            34,  5,  8,  5, 28, 21, 10,  2, 34, 
+             5, 24, 32, 19, 42, 16, 49,  8, 20, 
+             1, 11,  8,  6, 32, 23, 10,  4,  2 ]
+}
