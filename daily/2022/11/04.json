@@ -1,0 +1,15 @@
+{
+  "grid": "hexagonal",
+  "width": 7,
+  "height": 8,
+  "wrap": true,
+  "comment": "We\u0027re back to evil walks! This one is constrained in one direction at least.",
+  "tiles": [ 0,  0,  0,  0,  0,  0,  0, 
+            24, 40, 24, 17, 24, 17, 17, 
+             5,  3,  3,  3,  5,  3,  5, 
+             3,  5,  5,  3,  5,  3,  5, 
+             3,  3,  3,  2,  1,  5,  5, 
+             3,  3,  5,  5,  3,  3,  5, 
+             3,  3,  5,  5,  5,  5,  5, 
+             5,  3,  3,  5,  3,  5,  3 ]
+}
